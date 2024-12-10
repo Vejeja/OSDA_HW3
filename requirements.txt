@@ -1,7 +1,11 @@
 jupyter_black
+ucimlrepo
+opendatasets
 numpy
 pandas
-opendatasets
-scikit-learn
 matplotlib
 seaborn
+scikit-learn
+plotly
+warnings
+xgboost
